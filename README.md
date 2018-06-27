@@ -1,5 +1,4 @@
 # Genesis
-=============
 
 Welcome to the Genesis Engine source code! 
 
